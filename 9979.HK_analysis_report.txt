@@ -1,0 +1,73 @@
+================================================================================
+FINANCIAL ANALYSIS REPORT: 9979.HK
+================================================================================
+Company: GREENTOWN MGMT
+Industry: Real Estate Services
+Sector: Real Estate
+
+EXECUTIVE SUMMARY:
+----------------------------------------
+Market Cap: $6.26B
+Enterprise Value: $5.04B
+EV/MC Ratio (cv): 0.81x
+Net Debt: $-1.62B
+
+PROFITABILITY & MARGINS:
+----------------------------------------
+Gross Profit Margin Trend (tm): 49.56% ← 52.15% ← 52.28% ← 46.39%
+Operating Profit Margin Trend (tm): 32.98% ← 34.00% ← 30.11% ← 25.87%
+Net Profit Margin Trend (tm): 23.28% ← 29.48% ← 28.03% ← 25.20%
+EPS Growth: -48.10%
+Revenue Growth Trend (tm): N/A ← 4.20% ← 24.34% ← 18.40%
+SG&A to Revenue Ratio Trend (tm): 16.64% ← 18.74% ← 22.92% ← 20.99%
+
+OPERATIONAL EFFICIENCY:
+----------------------------------------
+ROE: 15.5%
+ROIC Trend (tm): 20.97% ← 24.32% ← 19.82% ← 16.84%
+
+FINANCIAL HEALTH:
+----------------------------------------
+Current Ratio Trend (tm): 1.68 ← 1.83 ← 1.85 ← 2.01
+Quick Ratio: 1.35
+Debt-to-Equity Trend (tm): 0.00 ← 0.00 ← 0.00 ← 0.00
+Free Cash Flow: $-187.26M
+FCF Yield (cv): -2.99%
+Dividend Rate: $0.35
+Dividend Yield: 10.67%
+
+VALUATION METRICS:
+----------------------------------------
+Trailing P/E: 10.3
+PEG Ratio: N/A
+PE Ratio (cv): 10.29
+PEGY (cv): 1.01
+Price/Book (cv): 1.78
+Price/Sales (cv): 1.99
+
+INTRINSIC VALUATION MODELS:
+----------------------------------------
+Current Price: $3.19
+Discount Cashflow DCF (cv): N/A
+Graham EPS EG (cv): $-27.19
+Graham EPS BV (cv): $3.53
+
+COMPANY PROFILE:
+----------------------------------------
+Website: https://www.lcgljt.com
+Beta: 0.74
+
+Business Summary:
+Greentown Management Holdings Company Limited, an investment holding company, provides project management services in the People's Republic of China. It operates through Commercial Project Management, Governmental Project Management, and Others segments. The company offers property development management services for commercial projects; and to government on resettlement housing property development and public infrastructure projects. It also provides construction design and consulting services, as well as other services. The company was founded in 2010 and is headquartered in Hangzhou, the People's Republic of China. Greentown Management Holdings Company Limited is a subsidiary of Greentown China Holdings Limited.
+
+================================================================================
+Report generated on: 2025-11-14 10:20:35
+================================================================================
+INVESTMENT INSIGHTS:
+----------------------------------------
+✅ EXCELLENT PROFITABILITY: ROE >15% indicates efficient capital use
+🚫 WEAK CASH GENERATION: FCF yield <3% suggests poor cash flow
+🚫 SLOW GROWTH: Revenue growth <5% suggests mature/declining business
+
+SUMMARY: 1 positive factors, 2 concerns
+🚫 HIGH-RISK CANDIDATE: Multiple concerning factors

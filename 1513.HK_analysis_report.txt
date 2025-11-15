@@ -1,0 +1,74 @@
+================================================================================
+FINANCIAL ANALYSIS REPORT: 1513.HK
+================================================================================
+Company: LIVZON PHARMA
+Industry: Drug Manufacturers - Specialty & Generic
+Sector: Healthcare
+
+EXECUTIVE SUMMARY:
+----------------------------------------
+Market Cap: $34.92B
+Enterprise Value: $23.36B
+EV/MC Ratio (cv): 0.67x
+Net Debt: $-7.13B
+
+PROFITABILITY & MARGINS:
+----------------------------------------
+Gross Profit Margin Trend (tm): 65.45% ← 64.08% ← 64.68% ← 64.75%
+Operating Profit Margin Trend (tm): 23.96% ← 19.56% ← 17.69% ← 18.13%
+Net Profit Margin Trend (tm): 17.45% ← 15.72% ← 15.12% ← 14.72%
+EPS Growth: -1.70%
+Revenue Growth Trend (tm): N/A ← -4.97% ← -1.58% ← 4.69%
+SG&A to Revenue Ratio Trend (tm): 25.13% ← 28.27% ← 29.74% ← 31.91%
+
+OPERATIONAL EFFICIENCY:
+----------------------------------------
+ROE: 16.4%
+ROIC Trend (tm): 11.55% ← 10.74% ← 10.91% ← 11.31%
+
+FINANCIAL HEALTH:
+----------------------------------------
+Current Ratio Trend (tm): 2.15 ← 2.14 ← 2.30 ← 2.12
+Quick Ratio: 1.95
+Debt-to-Equity Trend (tm): 0.29 ← 0.29 ← 0.26 ← 0.21
+Free Cash Flow: $1.35B
+FCF Yield (cv): 3.87%
+Dividend Rate: $1.20
+Dividend Yield: 3.66%
+
+VALUATION METRICS:
+----------------------------------------
+Trailing P/E: 12.6
+PEG Ratio: N/A
+PE Ratio (cv): 12.64
+PEGY (cv): 3.47
+Price/Book (cv): 2.10
+Price/Sales (cv): 2.95
+
+INTRINSIC VALUATION MODELS:
+----------------------------------------
+Current Price: $33.00
+Discount Cashflow DCF (cv): $198.38
+Graham EPS EG (cv): $13.31
+Graham EPS BV (cv): $30.37
+
+COMPANY PROFILE:
+----------------------------------------
+Website: https://www.livzon.com.cn
+Beta: 0.32
+
+Business Summary:
+Livzon Pharmaceutical Group Inc. researches, develops, produces, exports, and sells pharmaceutical products, and active pharmaceutical ingredients (API) and intermediates in the People's Republic of China and internationally. The company offers leuprorelin acetate microspheres, urofollitropin, and menotropins for injection for the assisted reproduction field; Ilaprazole enteric-coated tablets, ilaprazole sodium for injection, and bismuth potassium citrate products for the gastrointestinal field; fluvoxamine maleate and perospirone hydrochloride tablets for the psychiatric and neurological field; and shenqi fuzheng injection and anti-viral granules for the traditional Chinese medicine field. It also produces APIs and intermediates, such as mevastatin, acarbose, phenylalanine, vancomycin hydrochloride, daptomycin, milbemycin oxime, and ceftriaxone sodium, as well as diagnostic reagents such as diagnostic kits for IgM antibody to mycoplasma pneumonia; diagnostic kits for human immunodeficiency virus antibody; and livzon antinuclear antibody test kits. In addition, the company offers nucleic acid test kits; livzon interferon-gamma release assays test kits; influenza A/B virus antigen detection kits; and treponema pallidum antibody detection kits. Further, it provides biochemical drugs, microbiological preparations, biologic products, Chinese drug preparations and pharmaceutical raw materials, stomatitis granules, biochemical and polypeptide APIs, and antibiotic APIs, as well as diagnostic equipment. Livzon Pharmaceutical Group Inc. was incorporated in 1985 and is headquartered in Zhuhai, China.
+
+================================================================================
+Report generated on: 2025-11-14 10:20:48
+================================================================================
+INVESTMENT INSIGHTS:
+----------------------------------------
+✅ STRONG UNDERVALUATION: Trading >30% below DCF intrinsic value
+✅ EXCELLENT PROFITABILITY: ROE >15% indicates efficient capital use
+🚫 HIGH LEVERAGE: Debt-to-Equity >1.0 indicates significant debt burden
+🚫 SLOW GROWTH: Revenue growth <5% suggests mature/declining business
+
+SUMMARY: 2 positive factors, 2 concerns
+⚖️ MODERATE CANDIDATE: Mixed signals - requires deeper analysis

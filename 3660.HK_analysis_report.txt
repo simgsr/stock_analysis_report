@@ -1,0 +1,74 @@
+================================================================================
+FINANCIAL ANALYSIS REPORT: 3660.HK
+================================================================================
+Company: QFIN-S
+Industry: Credit Services
+Sector: Financial Services
+
+EXECUTIVE SUMMARY:
+----------------------------------------
+Market Cap: $24.14B
+Enterprise Value: $20.78B
+EV/MC Ratio (cv): 0.86x
+Net Debt: $-3.34B
+
+PROFITABILITY & MARGINS:
+----------------------------------------
+Gross Profit Margin Trend (tm): N/A
+Operating Profit Margin Trend (tm): N/A
+Net Profit Margin Trend (tm): 44.62% ← 31.97% ← 28.85% ← 40.48%
+EPS Growth: 43.00%
+Revenue Growth Trend (tm): N/A ← 4.72% ← -3.88% ← -2.36%
+SG&A to Revenue Ratio Trend (tm): 15.50% ← 17.61% ← 18.78% ← 18.54%
+
+OPERATIONAL EFFICIENCY:
+----------------------------------------
+ROE: 31.0%
+ROIC Trend (tm): 24.48% ← 18.82% ← 21.15% ← 37.00%
+
+FINANCIAL HEALTH:
+----------------------------------------
+Current Ratio Trend (tm): N/A
+Quick Ratio: 0.80
+Debt-to-Equity Trend (tm): 0.06 ← 0.04 ← 0.01 ← 0.03
+Free Cash Flow: $-4.85B
+FCF Yield (cv): -20.11%
+Dividend Rate: $5.91
+Dividend Yield: 6.50%
+
+VALUATION METRICS:
+----------------------------------------
+Trailing P/E: 3.3
+PEG Ratio: N/A
+PE Ratio (cv): 3.32
+PEGY (cv): 0.48
+Price/Book (cv): 0.50
+Price/Sales (cv): 1.29
+
+INTRINSIC VALUATION MODELS:
+----------------------------------------
+Current Price: $91.15
+Discount Cashflow DCF (cv): N/A
+Graham EPS EG (cv): $2.59K
+Graham EPS BV (cv): $334.85
+
+COMPANY PROFILE:
+----------------------------------------
+Website: https://www.qfin.com
+Beta: 0.44
+
+Business Summary:
+Qfin Holdings, Inc., together with its subsidiaries, operate AI- driven credit-tech platform under the Qifu Jietiao brand in the People's Republic of China. The company provides credit-driven services that match borrowers with financial institutions to conduct borrower acquisition, credit assessment, fund matching, and post-facilitation services; and platform services, including loan facilitation and post-facilitation services to financial institution partners under an intelligence credit engine, referral services, and other technology solutions. It serves financial institutions, consumers, and small and micro-enterprises. The company was formerly known as Qifu Technology, Inc. and changed its name to Qfin Holdings, Inc. in July 2025. Qfin Holdings, Inc. was founded in 2016 and is headquartered in Shanghai, the People's Republic of China.
+
+================================================================================
+Report generated on: 2025-11-14 10:20:42
+================================================================================
+INVESTMENT INSIGHTS:
+----------------------------------------
+✅ EXCELLENT PROFITABILITY: ROE >15% indicates efficient capital use
+🚫 HIGH LEVERAGE: Debt-to-Equity >1.0 indicates significant debt burden
+🚫 WEAK CASH GENERATION: FCF yield <3% suggests poor cash flow
+✅ STRONG GROWTH: Revenue growth >15% indicates expanding business
+
+SUMMARY: 2 positive factors, 2 concerns
+⚖️ MODERATE CANDIDATE: Mixed signals - requires deeper analysis

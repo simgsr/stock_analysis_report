@@ -1,0 +1,73 @@
+================================================================================
+FINANCIAL ANALYSIS REPORT: 9618.HK
+================================================================================
+Company: JD-SW
+Industry: Internet Retail
+Sector: Consumer Cyclical
+
+EXECUTIVE SUMMARY:
+----------------------------------------
+Market Cap: $356.65B
+Enterprise Value: $309.88B
+EV/MC Ratio (cv): 0.87x
+Net Debt: $-113.05B
+
+PROFITABILITY & MARGINS:
+----------------------------------------
+Gross Profit Margin Trend (tm): 15.87% ← 14.72% ← 14.06% ← 13.56%
+Operating Profit Margin Trend (tm): 3.41% ← 2.67% ← 1.75% ← 0.62%
+Net Profit Margin Trend (tm): 3.57% ← 2.23% ← 0.99% ← -0.37%
+EPS Growth: -49.40%
+Revenue Growth Trend (tm): N/A ← 6.84% ← 3.67% ← 9.95%
+SG&A to Revenue Ratio Trend (tm): 4.91% ← 4.60% ← 4.67% ← 5.29%
+
+OPERATIONAL EFFICIENCY:
+----------------------------------------
+ROE: 14.2%
+ROIC Trend (tm): 12.57% ← 8.05% ← 3.73% ← -1.46%
+
+FINANCIAL HEALTH:
+----------------------------------------
+Current Ratio Trend (tm): 1.29 ← 1.16 ← 1.32 ← 1.35
+Quick Ratio: 0.80
+Debt-to-Equity Trend (tm): 0.38 ← 0.30 ← 0.30 ← 0.16
+Free Cash Flow: $-14.16B
+FCF Yield (cv): -3.97%
+Dividend Rate: $3.88
+Dividend Yield: 3.12%
+
+VALUATION METRICS:
+----------------------------------------
+Trailing P/E: 8.6
+PEG Ratio: N/A
+PE Ratio (cv): 8.55
+PEGY (cv): 3.26
+Price/Book (cv): 0.74
+Price/Sales (cv): 0.28
+
+INTRINSIC VALUATION MODELS:
+----------------------------------------
+Current Price: $119.30
+Discount Cashflow DCF (cv): N/A
+Graham EPS EG (cv): $-1.26K
+Graham EPS BV (cv): $224.24
+
+COMPANY PROFILE:
+----------------------------------------
+Website: https://www.jd.com
+Beta: 0.41
+
+Business Summary:
+JD.com, Inc. operates as a supply chain-based technology and service provider in the People's Republic of China. It operates through three segments: JD Retail, JD Logistics, and New Businesses. The company offers computers, communication, and consumer electronics products, as well as home appliances; and general merchandise products comprising food, beverage and fresh produce, baby and maternity products, furniture and household goods, cosmetics and other personal care items, pharmaceutical and healthcare products, industrial products, books, automobile accessories, apparel and footwear, bags, and jewelry. It also provides online marketplace services for third-party merchants; marketing services; and omni-channel solutions to customers and offline retailers, as well as online healthcare services. In addition, the company develops, owns, and manages its logistics facilities and other real estate properties to support third parties; and offers asset management services and integrated service platform; leasing of storage facilities and related management services, as well as engages in online retail business. Further, it provides technology-driven supply chain solutions and logistics services. The company was formerly known as 360buy Jingdong Inc. and changed its name to JD.com, Inc. in January 2014. JD.com, Inc. was incorporated in 2006 and is headquartered in Beijing, the People's Republic of China.
+
+================================================================================
+Report generated on: 2025-11-14 10:20:37
+================================================================================
+INVESTMENT INSIGHTS:
+----------------------------------------
+🚫 HIGH LEVERAGE: Debt-to-Equity >1.0 indicates significant debt burden
+🚫 WEAK CASH GENERATION: FCF yield <3% suggests poor cash flow
+✅ STRONG GROWTH: Revenue growth >15% indicates expanding business
+
+SUMMARY: 1 positive factors, 2 concerns
+🚫 HIGH-RISK CANDIDATE: Multiple concerning factors

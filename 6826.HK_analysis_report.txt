@@ -1,0 +1,75 @@
+================================================================================
+FINANCIAL ANALYSIS REPORT: 6826.HK
+================================================================================
+Company: HAOHAI BIOTEC
+Industry: Biotechnology
+Sector: Healthcare
+
+EXECUTIVE SUMMARY:
+----------------------------------------
+Market Cap: $11.78B
+Enterprise Value: $4.66B
+EV/MC Ratio (cv): 0.40x
+Net Debt: $-2.19B
+
+PROFITABILITY & MARGINS:
+----------------------------------------
+Gross Profit Margin Trend (tm): 69.74% ← 70.34% ← 68.79% ← 71.98%
+Operating Profit Margin Trend (tm): 16.65% ← 16.64% ← 10.47% ← 13.00%
+Net Profit Margin Trend (tm): 15.69% ← 15.79% ← 8.58% ← 20.13%
+EPS Growth: -81.70%
+Revenue Growth Trend (tm): N/A ← 1.70% ← 25.27% ← 20.19%
+SG&A to Revenue Ratio Trend (tm): 45.82% ← 46.94% ← 51.57% ← 51.34%
+
+OPERATIONAL EFFICIENCY:
+----------------------------------------
+ROE: 6.0%
+ROIC Trend (tm): 6.98% ← 6.87% ← 3.20% ← 6.05%
+
+FINANCIAL HEALTH:
+----------------------------------------
+Current Ratio Trend (tm): 4.22 ← 5.24 ← 6.91 ← 7.62
+Quick Ratio: 3.14
+Debt-to-Equity Trend (tm): 0.08 ← 0.07 ← 0.02 ← 0.02
+Free Cash Flow: $213.70M
+FCF Yield (cv): 1.81%
+Dividend Rate: $1.09
+Dividend Yield: 3.89%
+
+VALUATION METRICS:
+----------------------------------------
+Trailing P/E: 15.0
+PEG Ratio: N/A
+PE Ratio (cv): 15.01
+PEGY (cv): 4.88
+Price/Book (cv): 1.16
+Price/Sales (cv): 4.70
+
+INTRINSIC VALUATION MODELS:
+----------------------------------------
+Current Price: $27.92
+Discount Cashflow DCF (cv): $188.38
+Graham EPS EG (cv): $-288.11
+Graham EPS BV (cv): $31.71
+
+COMPANY PROFILE:
+----------------------------------------
+Website: https://www.3healthcare.com
+Beta: 0.48
+
+Business Summary:
+Shanghai Haohai Biological Technology Co., Ltd. engages in the research, development, manufacture, and sale of biomedical materials in China, Europe, the United States, and internationally. It offers ophthalmology products consist of intraocular lens, medical sodium hyaluronate gel, and lubricant eye drop. The company also offers sodium hyaluronate injection, medical chitosan, medical sodium hyaluronate gel, anti-adhesion, and burn wound related products. In addition, it provides injectors, scalpels, suture needles and other products. Further, the company offers medical aesthetics products, including Matrifill, a first-generation hyaluronic acid (HA) dermal filler, which is a mono-phase sodium hyaluronate gel for injection; Janlane, a second-generation HA dermal filler for dynamic filling function; Hyalumatrix, a third-generation HA dermal filler that offers precise embellishment function; genetic-engineering preparations for epidermal repair; and radio frequency devices and laser equipment. Additionally, it is involved in the research and development, consultation, and services of biological engineering and pharmaceutical products, and related technology transfer activities; manufacture and sale of biological reagents, biologicals, and biological materials; manufacture and sale of intraocular lens and related products; sale machines of medical aesthetics, professional life cosmetology, and home cosmetology; sale of ophthalmology products; and provision of other machines and accessories. The company was formerly known as Haohai Limited and changed its name to Shanghai Haohai Biological Technology Co., Ltd. in 2010. Shanghai Haohai Biological Technology Co., Ltd. was founded in 2007 and is headquartered in Shanghai, China.
+
+================================================================================
+Report generated on: 2025-11-14 10:20:40
+================================================================================
+INVESTMENT INSIGHTS:
+----------------------------------------
+✅ STRONG UNDERVALUATION: Trading >30% below DCF intrinsic value
+🚫 WEAK PROFITABILITY: ROE <8% suggests poor capital efficiency
+🚫 HIGH LEVERAGE: Debt-to-Equity >1.0 indicates significant debt burden
+🚫 WEAK CASH GENERATION: FCF yield <3% suggests poor cash flow
+🚫 SLOW GROWTH: Revenue growth <5% suggests mature/declining business
+
+SUMMARY: 1 positive factors, 4 concerns
+🚫 HIGH-RISK CANDIDATE: Multiple concerning factors

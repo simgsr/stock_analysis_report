@@ -1,0 +1,72 @@
+================================================================================
+FINANCIAL ANALYSIS REPORT: 2669.HK
+================================================================================
+Company: CHINA OVS PPT
+Industry: Real Estate Services
+Sector: Real Estate
+
+EXECUTIVE SUMMARY:
+----------------------------------------
+Market Cap: $16.72B
+Enterprise Value: $11.31B
+EV/MC Ratio (cv): 0.68x
+Net Debt: $-5.50B
+
+PROFITABILITY & MARGINS:
+----------------------------------------
+Gross Profit Margin Trend (tm): 16.58% ← 15.86% ← 15.92% ← 17.39%
+Operating Profit Margin Trend (tm): 13.81% ← 13.40% ← 12.94% ← 13.48%
+Net Profit Margin Trend (tm): 10.77% ← 10.29% ← 10.03% ← 10.42%
+EPS Growth: 4.30%
+Revenue Growth Trend (tm): N/A ← 7.45% ← 19.74% ← 41.23%
+SG&A to Revenue Ratio Trend (tm): 3.08% ← 2.96% ← 3.67% ← 4.54%
+
+OPERATIONAL EFFICIENCY:
+----------------------------------------
+ROE: 30.1%
+ROIC Trend (tm): 28.60% ← 31.40% ← 33.14% ← 32.37%
+
+FINANCIAL HEALTH:
+----------------------------------------
+Current Ratio Trend (tm): 1.66 ← 1.56 ← 1.50 ← 1.48
+Quick Ratio: 1.45
+Debt-to-Equity Trend (tm): 0.03 ← 0.04 ← 0.04 ← 0.02
+Free Cash Flow: $943.29M
+FCF Yield (cv): 5.64%
+Dividend Rate: $0.19
+Dividend Yield: 3.63%
+
+VALUATION METRICS:
+----------------------------------------
+Trailing P/E: 10.0
+PEG Ratio: N/A
+PE Ratio (cv): 9.98
+PEGY (cv): 2.72
+Price/Book (cv): 2.99
+Price/Sales (cv): 1.17
+
+INTRINSIC VALUATION MODELS:
+----------------------------------------
+Current Price: $5.09
+Discount Cashflow DCF (cv): $4.71
+Graham EPS EG (cv): $8.72
+Graham EPS BV (cv): $4.42
+
+COMPANY PROFILE:
+----------------------------------------
+Website: https://www.copl.com.hk
+Beta: 1.25
+
+Business Summary:
+China Overseas Property Holdings Limited, an investment holding company, provides property management services in Hong Kong, Macau, and Mainland China. It operates through Property Management Services, Value-Added Services, and Car Parking Space Trading Business segments. The Property Management Services segment offers security, repair and maintenance, cleaning, and garden landscape maintenance services to residential communities, commercial properties, government properties, and construction sites. The Value-Added Services segment provides engineering, vetting of building plans, facilities and equipment evaluation proposals, pre-delivery, move-in assistance, delivery inspection, engineering service quality monitoring and consulting services, etc. for property developers and other property management companies; and community asset management services and home living service operations for residents, as well as commercial service operations. The Car Parking Space Trading Business segment engages in the trade of various car parking spaces. It is also involved in the provision of service through online to offline platform; and trademarks holding activities. The company was formerly known as China Overseas Management Services International Limited and changed its name to China Overseas Property Holdings Limited in May 2015. The company was founded in 1986 and is headquartered in Hong Kong, Hong Kong. China Overseas Property Holdings Limited is a subsidiary of China Overseas Holdings Limited.
+
+================================================================================
+Report generated on: 2025-11-14 10:20:45
+================================================================================
+INVESTMENT INSIGHTS:
+----------------------------------------
+✅ EXCELLENT PROFITABILITY: ROE >15% indicates efficient capital use
+🚫 HIGH LEVERAGE: Debt-to-Equity >1.0 indicates significant debt burden
+
+SUMMARY: 1 positive factors, 1 concerns
+🚫 HIGH-RISK CANDIDATE: Multiple concerning factors
